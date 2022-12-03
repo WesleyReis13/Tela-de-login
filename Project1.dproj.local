@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/01 15:17:24.000.647,=C:\Users\reisw\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/01 15:17:50.000.870,=C:\Users\reisw\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/12/01 15:27:35.000.796,C:\Users\reisw\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\tela de login\Unitprincipal.dfm</Transaction>
+    <Transaction>2022/12/01 15:27:35.000.796,C:\Users\reisw\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\tela de login\Unitprincipal.pas</Transaction>
+    <Transaction>2022/12/01 15:32:46.000.930,=C:\Users\reisw\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/12/01 15:33:45.000.656,C:\Users\reisw\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas=D:\tela de login\UnitCadastro.pas</Transaction>
+    <Transaction>2022/12/01 15:33:45.000.656,C:\Users\reisw\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.dfm=D:\tela de login\UnitCadastro.dfm</Transaction>
+    <Transaction>2022/12/01 15:33:58.000.766,C:\Users\reisw\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=D:\tela de login\UnitDM.pas</Transaction>
+    <Transaction>2022/12/01 15:33:58.000.766,C:\Users\reisw\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=D:\tela de login\UnitDM.dfm</Transaction>
+    <Transaction>2022/12/01 15:34:03.000.956,C:\Users\reisw\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\tela de login\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,72 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Tela de Cadastro'
+  ClientHeight = 473
+  ClientWidth = 664
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 160
+    Top = 56
+    Width = 313
+    Height = 42
+    Alignment = taRightJustify
+    Caption = 'Cadastro de Usuario'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clAqua
+    Font.Height = -35
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object TLabel
+    Left = 40
+    Top = 149
+    Width = 73
+    Height = 13
+    Caption = 'Nome completo'
+  end
+  object Label2: TLabel
+    Left = 40
+    Top = 216
+    Width = 24
+    Height = 13
+    Caption = 'Email'
+  end
+  object Label3: TLabel
+    Left = 40
+    Top = 280
+    Width = 33
+    Height = 13
+    Caption = 'Celular'
+  end
+  object DBEdit1: TDBEdit
+    Left = 40
+    Top = 168
+    Width = 337
+    Height = 21
+    TabOrder = 0
+  end
+  object DBEdit2: TDBEdit
+    Left = 40
+    Top = 235
+    Width = 337
+    Height = 21
+    TabOrder = 1
+  end
+  object DBEdit3: TDBEdit
+    Left = 40
+    Top = 304
+    Width = 209
+    Height = 21
+    TabOrder = 2
+  end
+end
